@@ -1,1 +1,1 @@
-# Python_Study
+# Pythonの勉強
